@@ -3,4 +3,4 @@
 参加者とトークテーマをランダムで抽出するだけのアプリです。
 
 Cloudflare Pages にて公開中
-https://chatgenerator.ststake.com
+https://chatgen.ststake.com
